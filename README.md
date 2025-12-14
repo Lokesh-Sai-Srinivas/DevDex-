@@ -14,13 +14,6 @@
 * **❤️ Favorites System:** Bookmark and organize frequently used code snippets.
 * **🎨 Premium UI/UX:** Fully custom Dark Mode (`#121212`), animated tab navigation, and haptic feedback.
 
-## 📱 Screenshots
-
-| Home Screen | Doc Store | Daily Quiz |
-|:---:|:---:|:---:|
-| <img src="./assets/adaptive-icon.png" width="200" /> | <img src="./assets/icon.png" width="200" /> | <img src="./assets/splash.png" width="200" /> |
-*(You can upload real screenshots to your repo and link them here later)*
-
 ## 🛠️ Tech Stack
 
 * **Framework:** React Native (Expo)
